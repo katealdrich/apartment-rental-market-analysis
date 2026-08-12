@@ -16,10 +16,10 @@ Our analytical approach was divided into four main technical phases to understan
 
 ## Team Contributions
 *   This project was a fully collaborative effort. The data cleaning, exploratory data analysis, regression modeling, and final documentation were jointly engineered and co-authored by:
-*  ** Kate Aldrich
-*  ** Stella Hung
-*  ** Malayka Mudassar
-*  ** Sarah Toniuk
+*  Kate Aldrich
+*  Stella Hung
+*  Malayka Mudassar
+*  Sarah Toniuk
 
 ## Future Iterations & Improvements
 * **Advanced Modeling:** To improve the current 40.6% predictive accuracy, future iterations should explore non-linear regression models to better handle extreme pricing outliers.
