@@ -15,7 +15,7 @@ Our analytical approach was divided into four main technical phases to understan
 *   **Ad-Hoc Analysis:** Do higher rental cost apartments (greater than $1500 a month) tend to have photos listed on the website?
 
 ## Team Contributions
-*   This project was a fully collaborative effort. The data cleaning, exploratory data analysis, regression modeling, and final documentation were jointly engineered and co-authored by:
+This project was a fully collaborative effort. The data cleaning, exploratory data analysis, regression modeling, and final documentation were jointly engineered and co-authored by:
 *  Kate Aldrich
 *  Stella Hung
 *  Malayka Mudassar
